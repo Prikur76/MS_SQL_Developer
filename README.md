@@ -1,2 +1,2 @@
 # MS_SQL_Developer
-Курс от OTUS
+Training course from OTUS
