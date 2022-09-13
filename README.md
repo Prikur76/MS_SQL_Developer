@@ -1,2 +1,2 @@
-# MS_SQL_Developer
+# otus-mssql-shisterov
 Training course from OTUS
